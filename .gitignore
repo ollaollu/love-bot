@@ -1,0 +1,8 @@
+# Ignore application configuration
+/config/env.yml
+
+# Ignore database file
+/blog.db
+
+# Other files to ignore
+/example.rb

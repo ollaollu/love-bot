@@ -3,6 +3,7 @@
 
 # Ignore database file
 /blog.db
+/twitter.db
 
 # Other files to ignore
 /example.rb
